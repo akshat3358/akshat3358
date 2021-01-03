@@ -16,7 +16,6 @@
 #### Skills 🤖
 <code><img height="48" src="https://img.icons8.com/nolan/64/python.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/django.png" /></code>
-<code><img height="48" src="https://www.cprogramming.com/" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/postgreesql.png" /></code>
 <code><img height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png" /></code>
 
