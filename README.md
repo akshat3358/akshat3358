@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Chaturvedi</h1>
-<h3 align="center">A Passionate Backend developer from India</h3>
+<h3 align="center">A Passionate  developer from India</h3>
 
-- 🔭 I’m currently working on **Django Framework**
+- 🔭 I’m currently working on **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **Django,C,C++**
+- 🌱 I’m currently learning **Data Structures and Algorithm,C,C++**
 
 - 📫 How to reach me **akshatchaturvedi422@gmail.com**
 
